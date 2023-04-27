@@ -1,0 +1,21 @@
+*{
+    /* background-color: rgb(97, 96, 94); */
+    color: rgb(255, 0, 76);
+    /* <img src="practice1.jpg" height="250px" width="250px"> */
+    background-image: url(practice3.jpg);  
+}
+body{
+    /* background-color: rgba(124, 131, 131); */
+    padding: 15%;
+    /* background-image: url(practice2.jpg);   */
+}
+h1{
+    /* background-color: rgb(124, 131, 131); */
+}
+p{
+    /* background-color: #8f8a8a; */
+}
+table{
+    
+   
+}
